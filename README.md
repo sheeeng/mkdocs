@@ -18,13 +18,13 @@
 [![Docker Automated Build](https://img.shields.io/docker/automated/sheeeng/mkdocs.svg)](https://hub.docker.com/r/sheeeng/mkdocs/builds/)
 [![Docker Build Status](https://img.shields.io/docker/build/sheeeng/mkdocs.svg)](https://hub.docker.com/r/sheeeng/mkdocs/builds/)
 
+[![](https://images.microbadger.com/badges/image/sheeeng/mkdocs.svg)](https://microbadger.com/images/sheeeng/mkdocs)
+[![](https://images.microbadger.com/badges/version/sheeeng/mkdocs.svg)](https://microbadger.com/images/sheeeng/mkdocs)
+
 [![GitHub Release Date](https://img.shields.io/github/release-date/sheeeng/mkdocs.svg)](https://github.com/sheeeng/mkdocs/releases)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/sheeeng/mkdocs.svg)](https://github.com/sheeeng/mkdocs/commits/master)
 [![GitHub Code Size in Bytes](https://img.shields.io/github/languages/code-size/sheeeng/mkdocs.svg)](https://github.com/sheeeng/mkdocs)
 [![GitHub Repository Size in Bytes](https://img.shields.io/github/repo-size/sheeeng/mkdocs.svg)](https://github.com/sheeeng/mkdocs)
-
-[![](https://images.microbadger.com/badges/image/sheeeng/mkdocs.svg)](https://microbadger.com/images/sheeeng/mkdocs)
-[![](https://images.microbadger.com/badges/version/sheeeng/mkdocs.svg)](https://microbadger.com/images/sheeeng/mkdocs)
 
 Docker built [mkdocs](http://www.mkdocs.org/) image for building [MkDocs](http://www.mkdocs.org/) documentation.
 
